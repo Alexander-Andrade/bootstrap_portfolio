@@ -19,3 +19,7 @@ body {
 .title-logo {
     margin-top: 20px;
 }
+
+.thick-line {
+    height: 3px;
+}
